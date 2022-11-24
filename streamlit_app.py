@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Data Application using Snowflake and Streamlit')
+streamlit.title('Data Application Using Snowflake and Streamlit')
