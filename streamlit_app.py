@@ -1,9 +1,8 @@
 import streamlit
 
-streamlit.title('Data Applications are Easy to Build Using Snowflake and Streamlit')
+streamlit.title('My Parents New Healthy Diner')
 
-streamlit.header('Data Application Builder')
-streamlit.text('Data')
-streamlit.text('Application')
-streamlit.text('Snowflake')
-streamlit.text('Streamlit')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
